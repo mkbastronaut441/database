@@ -1,0 +1,1 @@
+"server se connect kardo"
